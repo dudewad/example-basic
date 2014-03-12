@@ -6,4 +6,5 @@ This repository has just 5 basic commits on master by three different coders, pr
 ## Usage
 
 * Using `git log` to review simple history
+WHOOOOOO!!!! THE NEW README!!
 * Filtering `git log` with `--author` option
